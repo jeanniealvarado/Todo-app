@@ -1,4 +1,5 @@
 # Todo App
+![Captura de pantalla 2023-09-08 164213](https://github.com/jeanniealvarado/Todo-app/assets/116060333/2b10c307-5d91-4498-95f0-effc63b1b5d1)
 
 
 
@@ -10,6 +11,7 @@ Todo App es una sencilla pero potente herramienta de lista de tareas desarrollad
 - **Estado de Tareas:** Marca las tareas como completadas o pendientes.
 - **Categorización:** Organiza tus tareas en diferentes categorías o listas.
 - **Diseño Responsivo:** Disfruta de una experiencia perfecta en dispositivos móviles y de escritorio.
+
 
 
 
